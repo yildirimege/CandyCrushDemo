@@ -1,0 +1,4 @@
+#ifndef GAMEMECHANICS_H
+#define GAMEMECHANICS_H
+
+#endif // GAMEMECHANICS_H

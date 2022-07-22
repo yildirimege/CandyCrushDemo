@@ -1,4 +1,4 @@
-# Basic C++ SDL2 project
+# CandyCrushDemo
 
 This project is a basic C++ [SDL2][SDL] project that uses [CMake][] as a build system.
 
@@ -38,8 +38,8 @@ sudo apt install libsdl2-image-dev libsdl2-ttf-dev libsdl2-net-dev libsdl2-mixer
 
 ```sh
 # Clone this repo
-git clone https://gitlab.com/aminosbh/basic-cpp-sdl-project.git
-cd basic-cpp-sdl-project
+git clone https://gitlab.com/aminosbh/CandyCrushDemo.git
+cd CandyCrushDemo
 
 # Create a build folder
 mkdir build
@@ -50,7 +50,7 @@ cmake ..
 make
 
 # Run
-./basic-cpp-sdl-project
+./CandyCrushDemo
 ```
 
 ***Note:*** To use SDL2_image, SDL2_ttf, SDL2_net, SDL2_mixer or SDL2_gfx, you
